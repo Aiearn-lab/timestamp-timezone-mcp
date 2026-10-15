@@ -1,0 +1,12 @@
+{
+  "name": "timestamp-timezone-mcp",
+  "version": "1.0.0",
+  "description": "时间戳时区转换 & 时差计算 MCP 工具 — Zhiwei Studio / 知微工作室",
+  "type": "module",
+  "main": "index.js",
+  "bin": { "timestamp-timezone-mcp": "index.js" },
+  "engines": { "node": ">=18" },
+  "scripts": { "test": "node test.js" },
+  "dependencies": { "@modelcontextprotocol/sdk": "^1.17.0" },
+  "license": "MIT"
+}
