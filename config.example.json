@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "timestamp-timezone": {
+      "command": "node",
+      "args": ["/你的绝对路径/timestamp-timezone-mcp/index.js"]
+    }
+  }
+}
